@@ -26,7 +26,7 @@ In my first year of college at <b><u>VIT bhopal</u><b></pre>
     <hr>
     <main><section>
         <big><u>More about me</u>:-</big><br>
-        <a href="/Project 1/education.html" target="_main">my education</a>
+        <a href="http://127.0.0.1:5500/Project%201/education.html" target="_main">my education</a>
         <br><br>
         <a href="/Project 1/experience.html" target="_main">my experiences</a>
         <br><br>
